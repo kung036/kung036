@@ -4,8 +4,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20Wordl!%20I'm%20우경&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 백엔드 개발자 신우경입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 코드를 이해하고 개발하는 개발자입니다.</li><li> 최근 성능 개선에 관심을 가지고 공부하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -36,6 +36,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kung036&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    
     
 
 
