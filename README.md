@@ -2,13 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World!%20I'm%20우경&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 백엔드 개발자 신우경입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        <li> 코드를 이해하고 개발하는 개발자입니다.</li>
-        <li> 최근 성능 개선에 관심을 가지고 공부하고 있습니다. </li>
-    </div> 
-</div>
 <div style="display: flex; justify-content: center; gap: 50px; margin-top: 20px;">
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ SKILL </h2> 
